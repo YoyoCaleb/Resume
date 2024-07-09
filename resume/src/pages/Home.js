@@ -5,6 +5,7 @@ export default function Home() {
     <div>
       <Header />
       <h2>Home Page</h2>
+      <button className="btn btn-dark">WARNING!</button>
     </div>
   );
 }
