@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.min.css";
+import { Parallax, ParallaxLayer } from "@react-spring/parallax";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import NoPage from "./pages/NoPage";
